@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://arc-ads.github.io/sitemap.xml
